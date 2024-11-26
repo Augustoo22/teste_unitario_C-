@@ -68,4 +68,5 @@ namespace SimpleAppTests
             TestContext.WriteLine($"Divide By Zero Test Passed: {a} / {b} throws exception.");
         }
     }
+
 }

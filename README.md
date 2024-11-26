@@ -49,7 +49,7 @@ Este projeto utiliza o .NET 8.0.
 
 A classe `Calculator` implementa quatro métodos básicos de operações aritméticas:
 
-- `Add(int a, int b)`: Retorna a soma de dois números inteiros.
+- `Somar(int a, int b)`: Retorna a soma de dois números inteiros.
 - `Subtract(int a, int b)`: Retorna a diferença entre dois números inteiros.
 - `Multiply(int a, int b)`: Retorna o produto de dois números inteiros.
 - `Divide(int a, int b)`: Retorna o quociente de dois números inteiros. Lança uma exceção se o divisor for zero.

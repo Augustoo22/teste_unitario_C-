@@ -1,10 +1,10 @@
-C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\CoverletSourceRootsMapping_SimpleAppTests
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.csproj.AssemblyReference.cache
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.AssemblyInfoInputs.cache
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.AssemblyInfo.cs
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.csproj.CoreCompileInputs.cache
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\obj\Debug\net8.0\SimpleAppTests.sourcelink.json
+C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\CoverletSourceRootsMapping_SimpleAppTests
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\testhost.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\testhost.exe
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
@@ -28,7 +28,6 @@ C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\Micro
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\nunit.framework.dll
-C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\nunit.framework.legacy.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\victo\Documents\teste_unitario_C-\SimpleAppTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll

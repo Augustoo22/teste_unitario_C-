@@ -1,0 +1,12 @@
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\bin\Debug\net8.0\SimpleApp.deps.json
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\bin\Debug\net8.0\SimpleApp.dll
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\bin\Debug\net8.0\SimpleApp.pdb
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.AssemblyInfo.cs
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.sourcelink.json
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.dll
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\refint\SimpleApp.dll
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\SimpleApp.pdb
+C:\Users\victo\Documents\teste_unitario_C-\SimpleApp\obj\Debug\net8.0\ref\SimpleApp.dll
